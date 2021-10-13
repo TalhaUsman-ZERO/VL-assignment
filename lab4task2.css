@@ -1,0 +1,8 @@
+ul>li {
+    list-style-image: url("leaf.jpg");
+    list-style-type: circle;
+}
+
+body {
+    margin-left: 20px;
+}
